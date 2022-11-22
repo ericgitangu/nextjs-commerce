@@ -30,12 +30,12 @@ export interface Brand {
   name: string
   /**
    *  A human-friendly unique string for the category, automatically generated from its name.
-   * @example "acme"
+   * @example "Park & Pick"
    */
   slug: string
   /**
    * Relative URL on the storefront for this brand.
-   * @example "/acme"
+   * @example "/Park & Pick"
    */
   path: string
 }
