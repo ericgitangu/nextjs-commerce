@@ -15,8 +15,8 @@ import useSearch from '@framework/product/use-search'
 import rangeMap from '@lib/range-map'
 
 const SORT = {
-  'trending-desc': 'Trending',
-  'latest-desc': 'Latest arrivals',
+  // 'trending-desc': 'Trending',
+  // 'latest-desc': 'Latest arrivals',
   'price-asc': 'Price: Low to high',
   'price-desc': 'Price: High to low',
 }
