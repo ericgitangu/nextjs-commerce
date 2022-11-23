@@ -59,9 +59,10 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline=" Park & Pick."
+        headline="Park & Pick"
         description="Providing food security through technology. "
       />
+      {/* We might use these later so let's comment them out for now ~ Eric */}
       {/* <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
           <ProductCard
