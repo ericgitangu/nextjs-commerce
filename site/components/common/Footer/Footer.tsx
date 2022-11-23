@@ -70,7 +70,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
           <div>
             <span>&copy; 2020 Park & Pick, Inc. All rights reserved.</span>
           </div>
-          <div className="flex items-center text-primary text-sm">
+          {/* <div className="flex items-center text-primary text-sm">
             <span className="text-primary">Created by</span>
             <a
               rel="noopener noreferrer"
@@ -84,7 +84,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
                 alt="Vercel.com Logo"
               />
             </a>
-          </div>
+          </div> */}
         </div>
       </Container>
     </footer>
