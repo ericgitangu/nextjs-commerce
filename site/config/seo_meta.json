@@ -1,25 +1,25 @@
 {
-  "title": "Park & Pick Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - Park & Pick Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Park & Pick Store",
+  "titleTemplate": "%s - Park & Pick",
+  "description": "Tech-Driven Food Sustainability Store - https://parkandpick.store",
   "openGraph": {
-    "title": "Park & Pick Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Park & Pick Store",
+    "description": "Tech-Driven Food Sustainability Store - https://parkandpick.store",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://parkandpick.store",
+    "site_name": "Park & Pick",
     "images": [
       {
-        "url": "/card.png",
+        "url": "/icon-192X192.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Park & Pick"
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@parkandpick",
+    "site": "@parkandpick",
     "cardType": "summary_large_image"
   }
 }
