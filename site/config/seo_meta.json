@@ -10,7 +10,7 @@
     "site_name": "Park & Pick",
     "images": [
       {
-        "url": "/icon-192X192.png",
+        "url": "/icon-512X512.png",
         "width": "800",
         "height": "600",
         "alt": "Park & Pick"
