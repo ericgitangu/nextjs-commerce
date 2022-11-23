@@ -60,7 +60,7 @@ export default function Home({
       </Marquee>
       <Hero
         headline=" Park & Pick."
-        description="Providing food security is our mantra. "
+        description="Providing food security through technology. "
       />
       {/* <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
