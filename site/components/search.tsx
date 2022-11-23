@@ -169,7 +169,7 @@ export default function Search({ categories, brands }: SearchPropsType) {
             </div>
           </div>
 
-          {/* Designs */}
+          {/* Designs
           <div className="relative inline-block w-full">
             <div className="lg:hidden mt-3">
               <span className="rounded-md shadow-sm">
@@ -268,7 +268,7 @@ export default function Search({ categories, brands }: SearchPropsType) {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
         {/* Products */}
         <div className="col-span-8 order-3 lg:order-none">
