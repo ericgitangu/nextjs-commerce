@@ -60,7 +60,7 @@ export default function Home({
       </Marquee>
       <Hero
         headline="Park & Pick"
-        description="Derisking food security through technology. "
+        description="Derisking food chains through technology! "
       />
       {/* We might use these later so let's comment them out for now ~ Eric */}
       {/* <Grid layout="B" variant="filled">
