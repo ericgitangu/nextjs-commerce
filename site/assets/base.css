@@ -73,7 +73,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--primary);
+  background-color: red;
   color: var(--text-primary);
   overscroll-behavior-x: none;
 }
