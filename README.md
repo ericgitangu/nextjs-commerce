@@ -3,7 +3,7 @@ A C2B and B2B e-Commerce app leveraging headless e-Commerce, it contains a full 
 JAMStack:
 -> NextJS bootstrapped with Tailwind for styling
 -> Swell
--> Firestore by Google for authentication and Login (TODO)
+-> Firebase by Google for authentication and Login (TODO)
 -> Vercel & Github for CI/CD
 
 Work in progress...
